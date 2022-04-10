@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello Everyone 👋
 
-<!--
-**InitDev06/InitDev06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Benjamín, and i'm programmer from almost 2 years.
+Currently work in Aquatic Studios & MineCube Network.
 
-Here are some ideas to get you started:
+Also developement minecraft plugins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+```java 
+  - 'Java (More Experienced)'
+  - 'Python (Beginner)'
+  - 'HTML (Beginner)'
+```
+
+Learning:```java [ MySQL ]```
+
