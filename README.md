@@ -12,7 +12,7 @@ Learning: ```[ Python, HTML, MySQL ]```
 ```Java
 package initdev06;
 
-public final class Main implements Information {
+public final class Main extends Information {
 
   private final String age = "15y"; 
   private final List<String> languages = Lists.newArrayList();
