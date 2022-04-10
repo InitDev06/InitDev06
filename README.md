@@ -1,12 +1,13 @@
 ### Hello Everyone 👋
 
 My name is Benjamín, and i'm programmer from almost 2 years.
-Currently work in Aquatic Studios & MineCube Network.
+Currently work in **Aquatic Studios** and **MineCube Network.**
 
 Also developement minecraft plugins.
 
 Languages: ```[ Java ]```
-Learning:```[ Python, HTML, MySQL ]```
+
+Learning: ```[ Python, HTML, MySQL ]```
 
 ```Java
 package initdev06;
