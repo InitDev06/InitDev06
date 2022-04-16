@@ -1,9 +1,13 @@
 ### Hello Everyone 👋
 
 - My name is Benjamín, and i'm programmer from almost 2 years.
-Currently work in **Aquatic Studios** and **MineCube Network.**
+I Make Minecraft plugins and currently work in **Aquatic Studios** and **MineCube Network.**
+```Yaml
+Can contact me in:
+  • Discord: InitDev#6532
+  • Gmail: org.github.initdev@gmail.com
+```
 
-- Also development minecraft plugins.
 
 Languages: ```[ Java ]```
 
@@ -15,7 +19,7 @@ package initdev06;
 public final class Main extends Information {
 
   private final String age = "15y"; 
-  private final List<String> languages = Lists.newArrayList();
+  private final List<String> languages = Lists.newArrayList(3);
 
   @Override
   public void onEnable() {
@@ -25,8 +29,8 @@ public final class Main extends Information {
     System.out.println("Age: " + age);
 
     languages.add("Java");
-    languages.add("Python");
-    languages.add("HTML");
+    languages.add("Python | Begginer");
+    languages.add("HTML | Begginer");
 
     System.out.println("Languages:");
     System.out.println("");
