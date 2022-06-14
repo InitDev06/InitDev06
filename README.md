@@ -14,12 +14,10 @@ Languages: ```[ Java ]```
 Learning: ```[ Python, HTML, MySQL ]```
 
 ```Java
-package initdev06;
-
 public final class Main extends Information {
 
-  private final String age = "15y"; 
-  private final List<String> languages = Lists.newArrayList(3);
+  private final int age = 16; 
+  private final List<String> languages = Lists.newArrayList();
 
   @Override
   public void onEnable() {
@@ -35,7 +33,9 @@ public final class Main extends Information {
     System.out.println("Languages:");
     System.out.println("");
 
-    for (String language : languages) System.out.println(language);
+    for (String language: languages) {
+      System.out.println(language);
+    }
 
     System.out.println("Enabled in: " + (System.currentTimeMillis() - startTime) + "ms.");
   }
