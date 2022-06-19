@@ -5,7 +5,7 @@ I Make Minecraft plugins and currently work in `Aquatic Studios` and `MineCube N
 
 `Stats:`
 >
->  ![InitDev06's GitHub stats](https://github-readme-stats.vercel.app/api?username=initdev06&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+>  ![InitDev06's GitHub stats](https://github-readme-stats.vercel.app/api?username=initdev06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&border_radius=30&text_color=99bbff&border_color=99bbff)
 
 `Software/Languages:`
 >
