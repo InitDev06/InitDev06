@@ -1,7 +1,7 @@
 # Hello There
 
 My name is Benjamin, and i'm programmer from 2 years.
-I Make Minecraft plugins and currently work in `Aquatic Studios` and `MineCube Network.`.
+I Make Minecraft plugins and currently work in `Aquatic Studios` and `MineCube Network`.
 
 `Stats:`
 >
