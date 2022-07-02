@@ -5,7 +5,7 @@ I Make Minecraft plugins and currently work in `Aquatic Studios` and `MineCube N
 
 `Experience:`
 >  
->   Servers or Proxies: Spigot/Paper & BungeeCord
+>   Servers & Proxies: Spigot/Paper & BungeeCord
 >
 > Stats:
 > 
