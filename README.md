@@ -7,9 +7,12 @@ I Make Minecraft plugins and currently work at `Aquatic Studios` & `MineCube Net
 >  
 >   Servers & Proxies: Spigot/Paper & BungeeCord
 >
-> Stats:
-> 
->  ![InitDev06's GitHub stats](https://github-readme-stats.vercel.app/api?username=initdev06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false&border_radius=30&text_color=99bbff&border_color=99bbff)
+
+`Stats:`
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InitDev06&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InitDev06&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InitDev06&theme=github_dark) 
 
 `Software/Languages:`
 >
