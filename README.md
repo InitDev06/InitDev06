@@ -3,11 +3,6 @@
 My name is Benjamin, and i'm programmer from 2 years.
 I Make Minecraft plugins and currently work at `Aquatic Studios` & `MineCube Network`.
 
-`Experience:`
->  
->   Servers & Proxies: Spigot/Paper & BungeeCord
->
-
 `Stats:`
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InitDev06&theme=github_dark)
