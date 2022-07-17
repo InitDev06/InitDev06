@@ -14,3 +14,4 @@ I Make Minecraft plugins and currently work at `Aquatic Studios` & `MineCube Net
 > <img width=28 height="auto" src="https://raw.githubusercontent.com/InitDev06/InitDev06/master/assets/windows.png" />
 > <img width=28 height="auto" src="https://raw.githubusercontent.com/InitDev06/InitDev06/master/assets/idea.png" />
 > <img width=28 height="auto" src="https://raw.githubusercontent.com/InitDev06/InitDev06/master/assets/java.png" />
+> <img width=28 height="auto" src="https://raw.githubusercontent.com/InitDev06/InitDev06/master/assets/kotlin.png" />
