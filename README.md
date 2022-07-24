@@ -16,6 +16,6 @@ I Make Minecraft plugins and currently work at `Aquatic Studios`.
 
 `Stats:`
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InitDev06&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InitDev06&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InitDev06&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InitSync&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InitSync&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InitSync&theme=github_dark) 
